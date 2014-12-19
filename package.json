@@ -6,7 +6,6 @@
   "author": "Aria Stewart <ariastewart@paypal.com>",
   "license": "Apache 2.0",
   "dependencies": {
-    "browserify": "^7.0.2",
-    "browserify-kraken-spudbundle": "^1.0.0"
+    "makara-browserify": "^1.0.0"
   }
 }
