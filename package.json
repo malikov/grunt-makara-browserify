@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "Aria Stewart <ariastewart@paypal.com>",
   "license": "Apache 2.0",
+  "repository": "https://github.com/krakenjs/grunt-makara-browserify.git",
   "dependencies": {
     "makara-browserify": "^1.0.0"
   }
