@@ -1,7 +1,7 @@
 {
   "name": "grunt-makara-browserify",
   "version": "1.0.0",
-  "description": "Grunt build scripts to package localized content for use in the browser with browserify",
+  "description": "Grunt task to package localized content for use in the browser with browserify",
   "main": "index.js",
   "author": "Aria Stewart <ariastewart@paypal.com>",
   "license": "Apache 2.0",
